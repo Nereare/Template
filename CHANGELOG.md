@@ -1,4 +1,4 @@
-# [{{PKG_NAME}}]({{PKG_REPO}}) Change Log
+# [{{PKG_NAME}}](https://github.com/{{PKG_REPO}}) Change Log
 
 This is the change log to {{PKG_NAME}}. For further info on this project, see the [ReadMe file](README.md).
 
