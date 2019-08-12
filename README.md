@@ -4,6 +4,10 @@
 [![License](https://img.shields.io/github/license/{{PKG_REPO}}.svg)](https://github.com/{{PKG_REPO}})
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
 
+<!--
+TODO Delete the notice line on ReadMe
+BODY The [ReadMe file](README.md) has a notice line guiding to the template's tutorial. Delete it and replace by the repository's description.
+-->
 # *This is a template repository. Please read [this file](DELETE_ME.md) for instructions on how to set it.*
 
 ## Installing
