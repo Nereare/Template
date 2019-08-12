@@ -1,0 +1,62 @@
+####################################################
+#              ToDo Bot Configuration              #
+####################################################
+todo:
+  autoAssign: true
+
+####################################################
+#             Welcome Bot Configuration            #
+####################################################
+#                new-issue-welcome                 #
+# https://github.com/behaviorbot/new-issue-welcome #
+####################################################
+newIssueWelcomeComment: >
+  Thanks for opening your first issue here! :sparkles:
+
+  This repository has an **issue template** and we ask that you follow it.
+
+  Also, note that there is a **[Code of Conduct](CODE-OF-CONDUCT.md)**. Please take a time to read it.
+
+  The :busts_in_silhouette: humans will be here shortly to assess your issue! And thanks once again for your first issue! :tada:
+
+  ---
+
+  :robot: Bee-bop! I am a [robot](https://github.com/apps/welcome)!
+####################################################
+#                  new-pr-welcome                  #
+# https://github.com/behaviorbot/new-pr-welcome    #
+####################################################
+newPRWelcomeComment: >
+  Thanks for opening this pull request! :octocat:
+
+  Please check out our [Contributing Guidelines](CONTRIBUTING.md) and our [Code of Conduct](CODE-OF-CONDUCT.md).
+
+  ---
+
+  :robot: Bee-bop! I am a [robot](https://github.com/apps/welcome)!
+####################################################
+#                  first-pr-merge                  #
+# https://github.com/behaviorbot/first-pr-merge    #
+####################################################
+firstPRMergeComment: >
+  Congrats on merging your first pull request! :+1:
+
+  Keep on coding! :tada:
+
+  ---
+
+  :robot: Bee-bop! I am a [robot](https://github.com/apps/welcome)!
+
+####################################################
+#            Sentiment Bot Configuration           #
+####################################################
+#                  sentiment-bot                   #
+# https://github.com/behaviorbot/sentiment-bot     #
+####################################################
+sentimentBotToxicityThreshold: .7
+sentimentBotReplyComment: >
+  Please be sure to review the [code of conduct](code-of-conduct.md) and be respectful.
+
+  The human @Nereare will be here to review this shortly.---
+
+  :robot: Bee-bop! I am a [robot](https://github.com/apps/sentiment-bot)!
