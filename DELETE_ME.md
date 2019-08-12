@@ -34,7 +34,7 @@ See [its page](https://probot.github.io/apps/sentiment-bot/) for further configu
 
 #### todo bot
 
-See [its page](https://probot.github.io/apps/todo/) for further configuration. This template sets only the `autoAssign` variable, which sets the user resposible for the push to be the assignee of the issue. We suggest keeping this way.
+See [its page](https://probot.github.io/apps/todo/) for further configuration. This template sets two variables: `autoAssign` and `exclude`, which sets the user resposible for the push to be the assignee of the issue, and ignores the `.gitattributes` file from issue opening. We suggest keeping this way.
 
 #### Welcome bot
 

@@ -3,6 +3,7 @@
 ####################################################
 todo:
   autoAssign: true
+  exclude: "\.gitattributes"
 
 ####################################################
 #             Welcome Bot Configuration            #
