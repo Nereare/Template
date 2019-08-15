@@ -42,6 +42,22 @@ See [its page](https://probot.github.io/apps/todo/) for further configuration. T
 
 This bot are actually three bots into one. See the central [page](https://probot.github.io/apps/welcome/) for further configuration. There are three variables, each being the message posted by the bot: `newIssueWelcomeComment`, `newPRWelcomeComment`, and `firstPRMergeComment`. You may customize these messages if you wish.
 
+## Community Health Files
+
+This template implements some of the possible [community health files](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization) supported by GitHub:
+
+| File                             | Implemented        | File                                     | Guide |
+|:--------------------------------:|:------------------:|:-----------------------------------------|:-----:|
+| `CHANGELOG`                      | :heavy_check_mark: | [CHANGELOG.md](CHANGELOG.md)             | [Link](https://keepachangelog.com/) |
+| `CODE_OF_CONDUCT`                | :heavy_check_mark: | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | [Link](https://help.github.com/en/articles/adding-a-code-of-conduct-to-your-project/) |
+| `CONTRIBUTING`                   | :heavy_check_mark: | [CONTRIBUTING.md](CONTRIBUTING.md)       | [Link](https://help.github.com/en/articles/setting-guidelines-for-repository-contributors/) |
+| `FUNDING`                        | :x:                | -                                        | [Link](https://help.github.com/en/articles/displaying-a-sponsor-button-in-your-repository) |
+| Issue and pull request templates | :heavy_check_mark: | [.github](.github) folder                | [Link](https://help.github.com/en/articles/about-issue-and-pull-request-templates/) |
+| `LICENSE`                        | :heavy_check_mark: | [LICENSE.md](LICENSE.md)                 | [Link](https://choosealicense.com/) |
+| `SECURITY`                       | :x:                | -                                        | [Link](https://help.github.com/en/articles/adding-a-security-policy-to-your-repository) |
+| `SUPPORT`                        | :x:                | -                                        | [Link](https://help.github.com/en/articles/adding-support-resources-to-your-project/) |
+| `README`                         | :heavy_check_mark: | [README.md](README.md)                   | [Link](https://help.github.com/en/articles/about-readmes) |
+
 ## To-Do's
 
 In order to make this repository your own, follow these steps:
