@@ -2,7 +2,7 @@
 
 Hello and welcome!
 
-This repo's template features the minimal barebones needed for a general [git]() project to feature:
+This repo's template features the minimal barebones needed for a general [git](https://git-scm.com/) project to feature:
 
 * Git attributes file;
 * Git ignore file;
@@ -11,7 +11,9 @@ This repo's template features the minimal barebones needed for a general [git]()
 * Contributing guidelines;
 * [MIT License](https://opensource.org/licenses/MIT);
 * Read Me file;
-* GitHub's issue and feature request templates;
+* GitHub templates:
+  - Issue and feature request templates;
+  - Pull request templates;
 * GitHub Bots' configuration.
 
 ## Bots
@@ -51,7 +53,9 @@ In order to make this repository your own, follow these steps:
   - [ ] Search folder for `{{PKG_NAME}}` and replace all instaces by the repository name;
   - [ ] Search folder for `{{PKG_REPO}}` and replace all instaces by the repository's author and name as the format `author/package-name` (*e.g.* `Nereare/pretty-regret`); and
   - [ ] Search folder for `{{PKG_YEAR}}` and replace all instaces by the repository copyright years with four digits (*e.g.* `2019` or `2012-2018`);
-- [ ] On the [Read Me file](README.md), delete the line referring to this tutorial.
+  - [ ] Search folder for `{{PKG_VERS}}` and replace all instaces by the file or files used to keep versioning, preferably as a link (*e.g.* `[package.json](package.json)`);
+- [ ] On the [ReadMe file](README.md), check the version badge, which uses a `package.json` file to fetch the version, if this is not the method for this repository, change it accordingly;
+- [ ] On the [ReadMe file](README.md), delete the line referring to this tutorial.
 
 Now you are all set! :tada:
 
