@@ -29,5 +29,12 @@ Principles of a change log, excerpted from [Keep a Changelog](http://keepachange
 ### Added
  * Code of Conduct from [Contributor Covenant v1.4.1](https://www.contributor-covenant.org/).
  * [License](LICENSE.md).
- * Git metafiles and ReadMe file.
+ * Git metafiles (`.gitignore` and `.gitattributes`).
+ * GitHub templates:
+   - Issues;
+   - Feature request;
+   - User question;
+   - Pull request.
+ * ReadMe file.
  * Changelog file.
+ * ...
