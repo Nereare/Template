@@ -2,7 +2,7 @@
 
 Hello and welcome!
 
-This repo's template features the minimal barebones needed for a general [git]() project to feature:
+This repo's template features the minimal barebones needed for a general [git](https://git-scm.com/) project to feature:
 
 * Git attributes file;
 * Git ignore file;
