@@ -1,5 +1,9 @@
 # {{PKG_NAME}}
 
+<!--
+TODO Change version reference badge
+BODY The [ReadMe file](README.md) has a badge referring to the repository's version. By default we use [Shields](https://shields.io/)' JSON version badge. If you are using a file other than a `.json` to keep version, change the line below.
+-->
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/{{PKG_REPO}})](https://github.com/{{PKG_REPO}})
 [![License](https://img.shields.io/github/license/{{PKG_REPO}}.svg)](https://github.com/{{PKG_REPO}})
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
