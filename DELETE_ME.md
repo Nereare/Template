@@ -58,6 +58,10 @@ This template implements some of the possible [community health files](https://h
 | `SUPPORT`                        | :x:                | -                                        | [Link](https://help.github.com/en/articles/adding-support-resources-to-your-project/) |
 | `README`                         | :heavy_check_mark: | [README.md](README.md)                   | [Link](https://help.github.com/en/articles/about-readmes) |
 
+The template aces the [recommended community standards](https://opensource.guide/).
+
+![Community Standards checklist](https://i.imgur.com/4pvOp7e.jpg)
+
 ## To-Do's
 
 In order to make this repository your own, follow these steps:
