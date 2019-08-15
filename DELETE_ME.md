@@ -50,10 +50,10 @@ In order to make this repository your own, follow these steps:
   - [ ] If it is not the MIT: change the [license file](LICENSE.md) contents;
 - [ ] Customize [bot configuration](.github/config.yml) if you wish;
 - [ ] Change the names:
-  - [ ] Search folder for `{{PKG_NAME}}` and replace all instaces by the repository name;
-  - [ ] Search folder for `{{PKG_REPO}}` and replace all instaces by the repository's author and name as the format `author/package-name` (*e.g.* `Nereare/pretty-regret`); and
-  - [ ] Search folder for `{{PKG_YEAR}}` and replace all instaces by the repository copyright years with four digits (*e.g.* `2019` or `2012-2018`);
-  - [ ] Search folder for `{{PKG_VERS}}` and replace all instaces by the file or files used to keep versioning, preferably as a link (*e.g.* `[package.json](package.json)`);
+  - [ ] Search folder for `{{PKG_NAME}}` and replace all instances by the repository name;
+  - [ ] Search folder for `{{PKG_REPO}}` and replace all instances by the repository's author and name as the format `author/package-name` (*e.g.* `Nereare/pretty-regret`); and
+  - [ ] Search folder for `{{PKG_YEAR}}` and replace all instances by the repository copyright years with four digits (*e.g.* `2019` or `2012-2018`);
+  - [ ] Search folder for `{{PKG_VERS}}` and replace all instances by the file or files used to keep versioning, preferably as a link (*e.g.* `[package.json](package.json)`);
 - [ ] On the [ReadMe file](README.md), check the version badge, which uses a `package.json` file to fetch the version, if this is not the method for this repository, change it accordingly;
 - [ ] On the [ReadMe file](README.md), delete the line referring to this tutorial.
 
