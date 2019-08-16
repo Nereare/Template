@@ -1,0 +1,7 @@
+name: Oe
+desc: Foo bar foofoo foobarfoo.
+# TODO Test task
+# BODY Testing if newlines work.\n\nTesting still
+numb: 107
+flot: 10.8
+bloo: false
