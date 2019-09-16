@@ -14,6 +14,8 @@ BODY The [ReadMe file](README.md) has a notice line guiding to the template's tu
 -->
 # *This is a template repository. Please read [this file](DELETE_ME.md) for instructions on how to set it.*
 
+{{PKG_DESC}}
+
 ## Installing
 
 <!--

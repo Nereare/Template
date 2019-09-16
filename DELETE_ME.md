@@ -49,11 +49,12 @@ This template implements some of the possible [community health files](https://h
 | File                             | Implemented        | File                                     | Guide |
 |:--------------------------------:|:------------------:|:-----------------------------------------|:-----:|
 | `CHANGELOG`                      | :heavy_check_mark: | [CHANGELOG.md](CHANGELOG.md)             | [Link](https://keepachangelog.com/) |
-| `CODE_OF_CONDUCT`                | :heavy_check_mark: | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | [Link](https://help.github.com/en/articles/adding-a-code-of-conduct-to-your-project/) |
+| `CODE-OF-CONDUCT`                | :heavy_check_mark: | [CODE-OF-CONDUCT.md](CODE-OF-CONDUCT.md) | [Link](https://help.github.com/en/articles/adding-a-code-of-conduct-to-your-project/) |
 | `CONTRIBUTING`                   | :heavy_check_mark: | [CONTRIBUTING.md](CONTRIBUTING.md)       | [Link](https://help.github.com/en/articles/setting-guidelines-for-repository-contributors/) |
 | `FUNDING`                        | :x:                | -                                        | [Link](https://help.github.com/en/articles/displaying-a-sponsor-button-in-your-repository) |
 | Issue and pull request templates | :heavy_check_mark: | [.github](.github) folder                | [Link](https://help.github.com/en/articles/about-issue-and-pull-request-templates/) |
 | `LICENSE`                        | :heavy_check_mark: | [LICENSE.md](LICENSE.md)                 | [Link](https://choosealicense.com/) |
+| `package.json`                   | :heavy_check_mark: | [package.json](package.json)             | - |
 | `SECURITY`                       | :x:                | -                                        | [Link](https://help.github.com/en/articles/adding-a-security-policy-to-your-repository) |
 | `SUPPORT`                        | :x:                | -                                        | [Link](https://help.github.com/en/articles/adding-support-resources-to-your-project/) |
 | `README`                         | :heavy_check_mark: | [README.md](README.md)                   | [Link](https://help.github.com/en/articles/about-readmes) |
@@ -71,10 +72,11 @@ In order to make this repository your own, follow these steps:
 - [ ] Customize [bot configuration](.github/config.yml) if you wish;
 - [ ] Change the names:
   - [ ] Search folder for `{{PKG_NAME}}` and replace all instances by the repository name;
-  - [ ] Search folder for `{{PKG_REPO}}` and replace all instances by the repository's author and name as the format `author/package-name` (*e.g.* `Nereare/pretty-regret`); and
+  - [ ] Search folder for `{{PKG_REPO}}` and replace all instances by the repository's author and name as the format `author/package-name` (*e.g.* `Nereare/pretty-regret`);
+  - [ ] Search folder for `{{PKG_DESC}}` and replace all instances by the description of the repository; and
   - [ ] Search folder for `{{PKG_YEAR}}` and replace all instances by the repository copyright years with four digits (*e.g.* `2019` or `2012-2018`);
   - [ ] Search folder for `{{PKG_VERS}}` and replace all instances by the file or files used to keep versioning, preferably as a link (*e.g.* `[package.json](package.json)`);
-- [ ] On the [ReadMe file](README.md), check the version badge, which uses a `package.json` file to fetch the version, if this is not the method for this repository, change it accordingly;
+- [ ] On the [ReadMe file](README.md), check the version badge, which uses a `package.json` file, which is included with the template by default, to fetch the version. If this is not the method for this repository, change it accordingly;
 - [ ] On the [ReadMe file](README.md), delete the line referring to this tutorial.
 
 Now you are all set! :tada:
