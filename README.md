@@ -50,6 +50,6 @@ This project uses [SemVer](http://semver.org/) for versioning. For the versions 
 TODO Set desired licese
 BODY This repository's template sets the license to MIT's by default. If this is not the intended license, change it.
 -->
-[![MIT License](https://i.imgur.com/Ze3dFob.png)](LICENSE.md)
+[![Hippocratic License](https://i.imgur.com/DEKS3nm.png)](LICENSE.md)
 
-This project is available under the [MIT License](https://opensource.org/licenses/MIT).
+This project is available under the [Hippocratic License](https://firstdonoharm.dev/).

@@ -9,7 +9,8 @@ This repo's template features the minimal barebones needed for a general [git](h
 * [Changelog](https://keepachangelog.com/en/1.0.0/);
 * [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html);
 * Contributing guidelines;
-* [MIT License](https://opensource.org/licenses/MIT);
+* [Hippocratic License v1.2](https://firstdonoharm.dev/);
+  - This template adheres to the [The Ethical Source Movement](https://ethicalsource.dev/);
 * Read Me file;
 * GitHub templates:
   - Issue and feature request templates;
@@ -68,7 +69,7 @@ The template aces the [recommended community standards](https://opensource.guide
 In order to make this repository your own, follow these steps:
 
 - [ ] Choose a license:
-  - [ ] If it is not the MIT: change the [license file](LICENSE.md) contents;
+  - [ ] If it is not the Hippocratic License `v1.2`: change the [license file](LICENSE.md) contents;
 - [ ] Customize [bot configuration](.github/config.yml) if you wish;
 - [ ] Change the names:
   - [ ] Search folder for `{{PKG_NAME}}` and replace all instances by the repository name;
