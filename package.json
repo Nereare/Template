@@ -1,5 +1,5 @@
 {
-  "name": "{{PKG_NAME}}",
+  "name": "{{PKG_REPO}}",
   "description": "{{PKG_DESC}}",
   "version": "{{PKG_VERS}}",
   "maintainers": [
