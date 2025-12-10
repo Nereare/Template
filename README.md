@@ -1,8 +1,8 @@
 # {{PKG_NAME}}
 
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/{{PKG_USERNAME}}/{{PKG_REPO}})](https://github.com/{{PKG_USERNAME}}/{{PKG_REPO}})
-[![License](https://img.shields.io/github/license/{{PKG_USERNAME}}/{{PKG_REPO}}.svg)](LICENSE.md)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-3.0-4baaaa.svg)](CODE-OF-CONDUCT.md)
+[![GitHub Version](https://img.shields.io/github/v/release/{{PKG_USERNAME}}/{{PKG_REPO}}?include_prereleases&logo=semver&logoColor=ffffff&label=Version)](https://github.com/{{PKG_USERNAME}}/{{PKG_REPO}}/releases)
+[![GitHub License](https://img.shields.io/github/license/{{PKG_USERNAME}}/{{PKG_REPO}}?logo=unlicense&logoColor=ffffff&label=License)](LICENSE.md)
+[![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-3.0-5e0d73?logo=contributorcovenant&logoColor=ffffff)](CODE-OF-CONDUCT.md)
 
 {{PKG_DESCRIPTION}}
 
