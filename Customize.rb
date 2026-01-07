@@ -55,7 +55,7 @@ desc = "Ipsum elit illum cillum minim esse illum quis cillum multos"
 # The copyright years of this project
 # It is a string, so that a range of years can be used:
 # E.g. "2019, 2021-2022" or "2004-2013"
-year = "2022"
+year = Time.now.year.to_s
 # The initial version of the project
 # Do not include "v." or "v"
 version = "0.1.0"
